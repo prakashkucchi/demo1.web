@@ -1,5 +1,5 @@
 import streamlit as st
-import pandas as pd 
+
 
 st.title("welcome to melebaby moni:", )
 name = st.text_input("Enter your name:")
